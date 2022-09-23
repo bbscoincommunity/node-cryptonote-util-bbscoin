@@ -1,0 +1,57 @@
+{
+  "_args": [
+    [
+      "cryptonote-util-bbscoin@1.0.5",
+      "/home/bbscoin/bbscoin-pool"
+    ]
+  ],
+  "_from": "cryptonote-util-bbscoin@1.0.5",
+  "_id": "cryptonote-util-bbscoin@1.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-Gzj2lshGavUtbZrkvAOinjr4MRdUHsCFgWvAF2NLGkHUyl+0zuzU9JiUTGrixPd+XD4VgJuPJfmF+nIDoSof8A==",
+  "_location": "/cryptonote-util-bbscoin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "cryptonote-util-bbscoin@1.0.5",
+    "name": "cryptonote-util-bbscoin",
+    "escapedName": "cryptonote-util-bbscoin",
+    "rawSpec": "1.0.5",
+    "saveSpec": null,
+    "fetchSpec": "1.0.5"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cryptonote-util-bbscoin/-/cryptonote-util-bbscoin-1.0.5.tgz",
+  "_spec": "1.0.5",
+  "_where": "/home/bbscoin/bbscoin-pool",
+  "author": {
+    "name": "LucasJones",
+    "email": "lucasjonesdev@hotmail.co.uk"
+  },
+  "bugs": {
+    "url": "https://github.com/bbscoin/node-cryptonote-util/issues"
+  },
+  "dependencies": {
+    "bindings": "*"
+  },
+  "description": "cryptonote-util-bbscoin =======================",
+  "gypfile": true,
+  "homepage": "https://github.com/bbscoin/node-cryptonote-util#readme",
+  "keywords": [
+    "cryptonight",
+    "cryptonote"
+  ],
+  "main": "cryptonote",
+  "name": "cryptonote-util-bbscoin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbscoin/node-cryptonote-util.git"
+  },
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "version": "1.0.5"
+}
